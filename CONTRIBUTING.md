@@ -4,7 +4,7 @@ You can contribute by either creating an issue with the WorldPainter installers 
 
 ## Issue
 
-If you are less experienced with GitHub, then you can contribute by creating an issue with the WorldPainter installers and archives that you have saved attached to the issue. Someone will eventually add them to the repository.
+If you are less experienced with GitHub, then you can contribute by creating an issue with the WorldPainter installers and archives that you have saved attached to the issue. Someone will eventually add them to the repository. An issue template for uploading WorldPainter installers and archives exists; you can use that.
 
 ## Pull Request (PR)
 
@@ -37,4 +37,4 @@ The directory (folder) tree should be as follows:
         - worldpainter_<version number>.tar.gz
 ```
 
-Place the installers and archives that you haved saved into the proper folders, and then submit your pull request. Please do not create an empty folder if you do not have the corresponding installer / archive; this is to avoid confusing users browsing the repository.
+Place the installers and archives that you haved saved into the proper folders. Please do not create an empty folder if you do not have the corresponding installer / archive; this is to avoid confusing users browsing the repository. Additionally, please close any open issues that this PR would solve when merged; then submit your PR.

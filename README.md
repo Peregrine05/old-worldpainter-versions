@@ -1,6 +1,6 @@
 # old-worldpainter-versions
 
-This repository contains installers for old versions of WorldPainter.
+This repository contains installers and archives for old versions of WorldPainter.
 
 To contribute to this repository, please read [CONTRIBUTING.md](https://github.com/Peregrine05/old-worldpainter-versions/blob/main/CONTRIBUTING.md).
 

@@ -4,7 +4,11 @@ You can contribute by either creating an issue with the WorldPainter installers 
 
 ## Issue
 
-If you are less experienced with GitHub, then you can contribute by creating an issue with the WorldPainter installers and archives that you have saved attached to the issue. Someone will eventually add them to the repository. An issue template for uploading WorldPainter installers and archives exists; you can use that.
+If you are less experienced with GitHub, then you can contribute by creating an issue with the WorldPainter installers and archives that you have saved attached to the issue. Someone will eventually add them to the repository. An issue template for uploading WorldPainter installers and archives exists; you can use that. This template is located [here](https://github.com/Peregrine05/old-worldpainter-versions/issues/new?assignees=&labels=file+upload&template=worldpainter-installer-archive-upload.md&title=Upload+WorldPainter+%5Breplace+with+WorldPainter+version+number%5D).
+
+Please attach installers and archives for only a single WorldPainter version to an issue. If you have installers and archives for more than one WorldPainter version, then please create separate issues for uploading installers and archives of each version of WorldPainter. If you have more than one installer or archive for a single version of WorldPainter, or if GitHub refuses to upload the file based on its file extension, then it is recommended to pack the installer(s) and/or archive(s) into a ZIP file and then attach that ZIP file.
+
+If this process is too difficult for you, then you may simply attach the installers and archives that you have saved into a single issue; someone else can sort everything out later.
 
 ## Pull Request (PR)
 

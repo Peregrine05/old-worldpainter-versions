@@ -35,7 +35,7 @@ def main():
     
 def download(baseURL, version, extension, folderPath, filePrefix, resourceName):
     subprocess.run(["mkdir", "-p", "WorldPainter/" + version + folderPath])
-    print("\nAttempting to download the " + resourceName + " for the WorldPainter version specified...")
+    print("\nAttempting to download the " + resourceName + " for the WorldPainter version specified (" + version + ")...")
     try:
         wget.download(baseURL + version + extension, "WorldPainter/" + version + folderPath + filePrefix + version + extension)
     except:

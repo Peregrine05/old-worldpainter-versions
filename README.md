@@ -16,6 +16,8 @@ WorldPainter can be downloaded at [https://www.worldpainter.net](https://www.wor
 
 ### WorldPainter Downloader:
 
+**This script appears not to work properly on Windows.**
+
 The WorldPainter downloader (WorldPainter_Downloader.py) will attempt to download all packages for the WorldPainter version number specified. The script runs on Python 3. One dependency is the `wget` module, which can be installed with the command:
 
 ```
